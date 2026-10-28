@@ -1,0 +1,32 @@
+{
+  "id": "./",
+  "name": "이름비 — 이름 피하기 계산 게임",
+  "short_name": "이름비",
+  "lang": "ko",
+  "description": "이름을 피하고 숫자를 모아 점수를 쌓는 게임",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#090e1b",
+  "theme_color": "#101a30",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
